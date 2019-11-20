@@ -1,0 +1,1 @@
+window.stackData = [{name: 'CI/CD',count: 21,},{name: 'Development',count: 23,},{name: 'Infrastructure',count: 27,},{name: 'Security',count: 17,},{name: 'Serverless',count: 9,},];
